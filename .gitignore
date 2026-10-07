@@ -1,12 +1,15 @@
+# Agent 配置与本地文档（与代码无关，仅保留在本地）
+CLAUDE.md
+AGENTS.md
+/docs
+/.scratch
+GLOSSARY.md
+GLOSSARY-MAP.md
+
 *.iml
 .gradle
 /local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
+/.idea/
 .DS_Store
 /build
 /captures
